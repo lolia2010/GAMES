@@ -1,0 +1,292 @@
+.parent{
+    background-image: url(../image/WhatsApp\ Image\ 2023-07-29\ at\ 2.34.47\ PM.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 700px;
+    
+}
+.div13{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+.ryo{
+    color: gray;
+    text-align: center;
+}
+.rey{
+    text-align: center;
+}
+.div14{
+
+    width: 350px;
+    height: 400px;
+   
+}
+.icon12{
+    color: white;
+    background-color: rgb(248, 199, 5);
+    width: 110px;
+    height: 110px;
+    border-radius: 50%;
+    padding-top: 50px;
+    padding-left: 50px;
+    font-size: 50px;
+    margin-left: 100px;
+}
+.rtyj{
+    font-size: 40px;
+    text-align: center;
+    margin-top: 80px;
+}
+.ytun{
+    font-size: 20px;
+    color: gray;
+    text-align:center ;
+}
+.you{
+    color: white;
+    text-align: center;
+    width: 800px;
+    margin: auto;
+    margin-top: 270px;
+}
+.jku:hover{
+    background-color: rgb(236, 182, 106);
+
+}
+.tyu{
+    font-size: 30px;
+    font-style: italic;
+}
+.yui{
+    font-size: 60px;
+}
+.jku{
+    font-weight: 700;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    width: 150px;
+    border: none;
+    height: 50px;
+    background-color: rgb(234, 158, 26);
+    
+}
+.div-fix{
+    height: 60px;
+    width: 90%;
+    /* background-color: blue; */
+    top: 600px;
+    right: 20px;
+    padding-left: 150px;
+    display: flex;
+    margin: auto;
+    font-size: 20px;
+    color: rgb(234, 158, 26);
+}
+.my-parent h1{
+    text-align: center;
+    padding-top: 70px;
+    
+}
+.my-parent p{
+    text-align: center;
+}
+.my-parent{
+    background-color: rgb(251, 249, 249);
+}
+
+.imag{
+    margin-left: 80px;
+    margin-top: 40px;
+    border-radius: 50%;
+    margin-right: 90px;
+    border: 5px solid rgb(183, 181, 181);
+    width: 250px;
+    height: 250px;
+}
+
+.icon,.icon9{
+    text-align: center;
+    margin-right: 20px;
+    padding:10px;
+    font-size: 20px;
+    border-radius: 50%;
+    color: rgb(251, 251, 254);
+    background-color: rgb(8, 8, 45);
+    
+}
+.yup{
+    margin-left: 60px;
+}
+
+.cyt{
+    font-size: 20px;
+    margin-left: 80px;
+    margin-right: 500px;
+}
+.eey{
+    font-size: 20px;
+    margin-left: 500px;
+}
+.my-parent{
+    margin-bottom: 5px;
+}
+.yty{
+
+    margin-left: 250px;
+    text-align: center;
+    width: 1000px;
+padding-top: 20px;
+flex-direction: row;
+display: flex;
+justify-content: space-around;
+}
+.tnh{
+    padding-top: 45px;
+    margin-top: 80px;
+    height: 70px;
+    background-color: grey;
+}
+.the-kids{
+display: flex;
+flex-direction: row;
+justify-content: space-around;
+}
+
+.icon9{
+    /* margin-left: 100px; */
+}
+
+.parven{
+    text-align: center;
+}
+.our-end{
+    background-color: rgb(250, 226, 67);
+   
+    margin-bottom: 150px;
+    width: 170px;
+    height: 170px;
+    margin-left: 660px;
+    margin-top: 60px;
+    border-radius: 100px;
+    margin-right: 90px;
+    border: 5px solid rgb(183, 181, 181);
+
+}
+.our-end h3{
+    font-size: 30px;
+    margin-top: 40px;
+    text-align: center;
+    color: white;
+}
+.line-about{
+    margin-top: 40px;
+    z-index: -1;
+    width:4px;
+    height: 1500px;
+    margin-left: 750px;
+    margin-top: 70px;
+    position: absolute;
+    background-color:  rgb(137, 134, 134);
+}
+.ytr{
+    margin-top: 40px;
+    border-radius: 100px;
+    margin-right: 90px;
+    border: 5px solid rgb(183, 181, 181);
+}
+.text-about h3{
+    font-size: 35px;
+}
+.text-about p{
+    color: rgb(109, 108, 108);
+    font-size: 20px;
+}
+.text-about{
+    
+    width: 360px;
+}
+.our-agency{
+    margin-top: 50px;
+    margin-left: 650px;
+    display: flex;
+    flex-direction: row;
+}
+.our-humble{
+    margin-top: 50px;
+    margin-left: 300px;
+    display: flex;
+    flex-direction: row;
+}
+.parent-about{
+position: relative;
+}
+.tym{
+    text-align: center;
+    font-size: 40px;
+}
+.tyn{
+    text-align: center;
+    font-size: 20px;
+    color: grey;
+}
+
+.parent16{
+    padding-bottom: 60px;
+    padding-top:60px ;
+    text-align: center;
+    background-color: rgb(251, 249, 249);
+}
+
+.kid8 img{
+    height: 300px;
+}
+.yt1y{
+    margin-top: 30px;
+    margin-bottom: 20px;
+}
+.parent17{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+   margin-bottom:80px ;
+   
+}
+.kid8{
+    background-color: white;
+}
+.kid7{
+    background-color: white;
+}
+.kid7 img{
+    height: 300px;
+}
+.kid6{
+    background-color: white;
+}
+.kid6 img{
+    height: 300px;
+}
+.hello{
+    color: rgb(108, 105, 105);
+}
+.home li{
+    color: aliceblue;
+    display: inline;
+    margin-left: 70px;
+    font-size: 3opx;
+    
+
+}
+.home li:hover{
+    color: rgb(238, 150, 27);
+
+}
+.home{
+    margin-left:400px ;
+    
+}
